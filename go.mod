@@ -1,4 +1,4 @@
-module canal
+module github.com/liuhuanqiang/canal
 
 go 1.13
 
